@@ -1,0 +1,1 @@
+console.log("hari jum\'at"); //\' atau \", \n =enter, \0 = null
