@@ -46,4 +46,4 @@ function segitiga4(panjang) {
     }
     return hasil;
 }
-console.log(segitiga4(10));
+console.log(segitiga4(8));
